@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## v1.3.0
+* Client SDKを1.3.0 にアップデート
+
 ## v1.2.0
 * Client SDKを1.2.0 にアップデート
 * Idealens向けサンプルアプリを追加
